@@ -4828,6 +4828,54 @@
             }
         ]
     },
+     "Outlaw Hunter Endo 02": {
+        "Type": "Continous Splash + Passive",
+        "Image": "rbxassetid://83245114013418",
+        "Rarity": "Apex",
+        "PlacePrice": 20000,
+        "Offset": 0,
+        "Max": 1,
+        "Passive": {"Name": "Outlaw's Dance", "Description": "Slows Enemies by 60%"},
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 30,
+                "Damage": 600,
+                "Cooldown": 0.5,
+                "Slow": 0.70,
+                "SlowTime": 1
+            },
+            {
+                "Price": 26000,
+                "Range": 34,
+                "Damage": 1200,
+                "Cooldown": 0.5,
+                "Slow": 0.70,
+                "SlowTime": 1
+            },
+            {
+                "Price": 30000,
+                "Range": 37,
+                "Damage": 1800,
+                "Cooldown": 0.4,
+                "Slow": 0.70,
+                "SlowTime": 1
+            },
+            {
+                "Price": 45000,
+                "Range": 40,
+                "Damage": 2400,
+                "Cooldown": 0.3,
+                "Slow": 0.70,
+                "SlowTime": 1
+            }
+        ]
+    },
     "Outlaw Freddy": {
         "Type": "Splash",
         "Image": "rbxassetid://136678045195601",
