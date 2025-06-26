@@ -3464,6 +3464,426 @@
             }
         ]
     },
+      "Angel Golden Freddy": {
+        "Type": "Pierce",
+        "Image": "rbxassetid://93858261547140",
+        "Rarity": "Mythic",
+        "PlacePrice": 2500,
+        "Max": 4,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Offset": -1.9,
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 10,
+                "Damage": 500,
+                "Cooldown": 1
+            },
+            {
+                "Price": 5500,
+                "Range": 15,
+                "Damage": 600,
+                "Cooldown": 0.9
+            },
+            {
+                "Price": 7850,
+                "Range": 20,
+                "Damage": 700,
+                "Cooldown": 0.8
+            },
+            {
+                "Price": 12500,
+                "Range": 30,
+                "Damage": 800,
+                "Cooldown": 0.6
+            }
+        ]
+    },
+    "Saint Freddy": {
+        "Type": "Single",
+        "Image": "rbxassetid://74094150825863",
+        "Rarity": "Secret",
+        "PlacePrice": 5000,
+        "Max": 3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Offset": 0.25,
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 15,
+                "Damage": 500,
+                "Cooldown": 1
+            },
+            {
+                "Price": 8125,
+                "Range": 18,
+                "Damage": 750,
+                "Cooldown": 0.7
+            },
+            {
+                "Price": 16250,
+                "Range": 22,
+                "Damage": 900,
+                "Cooldown": 0.5
+            },
+            {
+                "Price": 32500,
+                "Range": 25,
+                "Damage": 1500,
+                "Cooldown": 0.25
+            }
+        ]
+    },
+    "God Freddy": {
+        "Type": "AOE + Lighting",
+        "Image": "rbxassetid://87298722549677",
+        "Rarity": "Nightmare",
+        "PlacePrice": 7500,
+        "Offset": -2.5,
+        "Max": 1,
+        "Passive": {"Name": "Lighting", "Description": "Increases damage by 2x"},
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 15,
+                "Damage": 1500,
+                "Poison": 3000,
+                "PoisonTime": 5,
+                "Cooldown": 1.5
+            },
+            {
+                "Price": 20000,
+                "Range": 17,
+                "Damage": 2250,
+                "Poison": 4500,
+                "PoisonTime": 5,
+                "Cooldown": 1.2
+            },
+            {
+                "Price": 25000,
+                "Range": 23,
+                "Damage": 2750,
+                "Poison": 5500,
+                "PoisonTime": 5,
+                "Cooldown": 1
+            },
+            {
+                "Price": 30000,
+                "Range": 27,
+                "Damage": 3250,
+                "Poison": 6500,
+                "PoisonTime": 5,
+                "Cooldown": 0.6
+            }
+        ]
+    },
+      "Shop Keeper Jolly Shadow Bonnie": {
+        "Type": "AOE + Passive",
+        "Image": "rbxassetid://99726583363165",
+        "Rarity": "Nightmare",
+        "PlacePrice": 5000,
+        "Max": 2,
+        "Passive": {"Name": "Stocks", "Description": "Does Damage Boost & Range Boost"},
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 15,
+                "Damage": 250,
+                "Cooldown": 0.05
+            },
+            {
+                "Price": 10000,
+                "Range": 15,
+                "Damage": 500,
+                "Cooldown": 0.05
+            },
+            {
+                "Price": 15000,
+                "Range": 19,
+                "Damage": 650,
+                "Cooldown": 0.05         
+            },
+            {
+                "Price": 20000,
+                "Range": 25,
+                "Damage": 1000,
+                "Cooldown": 0.05
+            }
+        ]
+    },
+       "White Rabbit": {
+        "Type": "AOE",
+        "Image": "rbxassetid://91181457097980",
+        "Rarity": "Secret",
+        "PlacePrice": 2500,
+        "Max": 3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 15,
+                "Damage": 25,
+                "Cooldown": 0.05
+            },
+            {
+                "Price": 5000,
+                "Range": 16,
+                "Damage": 55,
+                "Cooldown": 0.05
+            },
+            {
+                "Price": 10000,
+                "Range": 19,
+                "Damage": 75,
+                "Cooldown": 0.05
+            },
+            {
+                "Price": 15000,
+                "Range": 25,
+                "Damage": 105,
+                "Cooldown": 0.05
+            }
+        ]
+    },
+    "Faz Baby": {
+        "Type": "Splash + Slow",
+        "Image": "rbxassetid://83176385850997",
+        "Rarity": "Nightmare",
+        "PlacePrice": 12500,
+        "Offset": 0,
+        "Max": 3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 25,
+                "Damage": 3000,
+                "Cooldown": 1,
+                "Slow": 0,
+                "SlowTime": 0.5
+            },
+            {
+                "Price": 20000,
+                "Range": 27,
+                "Damage": 5500,
+                "Cooldown": 0.8,
+                "Slow": 0,
+                "SlowTime": 0.5
+            },
+            {
+                "Price": 32150,
+                "Range": 30,
+                "Damage": 8000,
+                "Cooldown": 0.6,
+                "Slow": 0,
+                "SlowTime": 0.5
+            },
+            {
+                "Price": 37250,
+                "Range": 30,
+                "Damage": 10500,
+                "Cooldown": 0.4,
+                "Slow": 0,
+                "SlowTime": 0.5
+            }
+        ]
+    },
+     "Redbear": {
+        "Type": "Continuous",
+        "Image": "rbxassetid://76239040858153",
+        "Rarity": "Apex",
+        "PlacePrice": 30000,
+        "Max": 1,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 25,
+                "Damage": 1150,
+                "Cooldown": 0.05
+            },
+            {
+                "Price": 40000,
+                "Range": 30,
+                "Damage": 1300,
+                "Cooldown": 0.05
+            },
+            {
+                "Price": 50000,
+                "Range": 35,
+                "Damage": 1550,
+                "Cooldown": 0.05
+            },
+            {
+                "Price": 65000,
+                "Range": 40,
+                "Damage": 2750,
+                "Cooldown": 0.05
+            }
+        ]
+    },
+    "Marray": {
+        "Type": "Pierce",
+        "Image": "rbxassetid://114829629776549",
+        "Rarity": "Secret",
+        "PlacePrice": 1200,
+        "Max": 2,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 40,
+                "Damage": 500,
+                "Cooldown": 2
+            },
+            {
+                "Price": 5000,
+                "Range": 42,
+                "Damage": 985,
+                "Cooldown": 1.5
+            },
+            {
+                "Price": 10000,
+                "Range": 45,
+                "Damage": 1500,
+                "Cooldown": 1.5
+            },
+            {
+                "Price": 15000,
+                "Range": 50,
+                "Damage": 1825,
+                "Cooldown": 1.5
+            }
+        ]
+    },
+        "Badlands Fredbear": {
+        "Type": "Aoe",
+        "Image": "rbxassetid://100152935968788",
+        "Rarity": "Secret",
+        "PlacePrice": 5000,
+        "Max": 2,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Offset": -0.5,
+        "Upgrades": [
+              {
+                "Price": 0,
+                "Range": 15,
+                "Damage": 400,
+                "Cooldown": 1,
+                "Slow": 0,
+                "SlowTime": 1
+            },
+            {
+                "Price": 1200,
+                "Range": 16,
+                "Damage": 500,
+               "Cooldown": 0.7,
+                "Slow": 0,
+                "SlowTime": 1
+            },
+            {
+                "Price": 1600,
+                "Range": 17,
+                "Damage": 600,
+                "Cooldown": 0.7,
+                "Slow": 0,
+                "SlowTime": 1
+            },
+            {
+                "Price": 2000,
+                "Range": 18,
+                "Damage": 600,
+                "Cooldown": 0.5,
+                "Slow": 0,
+                "SlowTime": 1
+            }
+        ]
+    },
+    "Frost Badlands Fredbear": {
+        "Type": "AoE + Slow",
+        "Image": "rbxassetid://126447935336119",
+        "Rarity": "Secret",
+        "PlacePrice": 4000,
+        "Max": 2,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Offset": -0.5,
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 15,
+                "Damage": 8000,
+                "Cooldown": 1,
+                "Slow": 0,
+                "SlowTime": 1
+            },
+            {
+                "Price": 10200,
+                "Range": 16,
+                "Damage": 5000,
+               "Cooldown": 0.7,
+                "Slow": 0,
+                "SlowTime": 1
+            },
+            {
+                "Price": 16000,
+                "Range": 17,
+                "Damage": 6000,
+                "Cooldown": 0.7,
+                "Slow": 0,
+                "SlowTime": 1
+            },
+            {
+                "Price": 20000,
+                "Range": 18,
+                "Damage": 6000,
+                "Cooldown": 0.5,
+                "Slow": 0,
+                "SlowTime": 1
+            }
+        ]
+    },
     "Goliath Endo Freddy": {
         "Type": "AOE",
         "Image": "rbxassetid://112659672284119",
