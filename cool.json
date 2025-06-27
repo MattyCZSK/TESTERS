@@ -1062,7 +1062,7 @@
         "Rarity": "Secret",
         "PlacePrice": 400,
         "Max": 1,
-        "Passive": {"Name": "Athlete", "Description": "Stuns Enemies for 1 Second."},
+        "Passive": {"Name": "Athlete", "Description": "Stuns Enemies for 1 Second and Poisons Them for of 20% Damage."},
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
@@ -1076,7 +1076,9 @@
                 "Damage": 500,
                 "Cooldown": 2,
                 "Slow": 0,
-                "SlowTime": 1
+                "SlowTime": 1,
+                "Poison": 100,
+                "PoisonLength": 2
             },
             {
                 "Price": 2500,
@@ -1084,7 +1086,9 @@
                 "Damage": 5000,
                 "Cooldown": 2,
                 "Slow": 0,
-                "SlowTime": 1
+                "SlowTime": 1,
+                "Poison": 1000,
+                "PoisonLength": 2
             },
             {
                 "Price": 13000,
@@ -1092,7 +1096,9 @@
                 "Damage": 20000,
                 "Cooldown": 2,
                 "Slow": 0,
-                "SlowTime": 1
+                "SlowTime": 1,
+                "Poison": 4000,
+                "PoisonLength": 2
             },
             {
                 "Price": 30000,
@@ -1100,7 +1106,9 @@
                 "Damage": 35000,
                 "Cooldown": 2,
                 "Slow": 0,
-                "SlowTime": 1
+                "SlowTime": 1,
+                "Poison": 7000,
+                "PoisonLength": 2
             },
              {
                 "Price": 67500,
@@ -1108,7 +1116,9 @@
                 "Damage": 50000,
                 "Cooldown": 2,
                 "Slow": 0,
-                "SlowTime": 1
+                "SlowTime": 1,
+                "Poison": 10000,
+                "PoisonLength": 2
             }
         ]
     },
