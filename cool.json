@@ -1056,6 +1056,62 @@
             }
         ]
     },
+     "All-Star": {
+        "Type": "Pierce + Stun + Passive",
+        "Image": "rbxassetid://18255590026",
+        "Rarity": "Secret",
+        "PlacePrice": 400,
+        "Max": 1,
+        "Passive": {"Name": "No diabeto", "Description": "Roll back to kitchen"},
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Offset": -0.5,
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 30,
+                "Damage": 500,
+                "Cooldown": 2,
+                "Slow": 0,
+                "SlowTime": 5
+            },
+            {
+                "Price": 2500,
+                "Range": 50,
+                "Damage": 5000,
+                "Cooldown": 2,
+                "Slow": 0,
+                "SlowTime": 5
+            },
+            {
+                "Price": 13000,
+                "Range": 75,
+                "Damage": 20000,
+                "Cooldown": 2,
+                "Slow": 0,
+                "SlowTime": 5
+            },
+            {
+                "Price": 27000,
+                "Range": 100,
+                "Damage": 35000,
+                "Cooldown": 2,
+                "Slow": 0,
+                "SlowTime": 1
+            },
+             {
+                "Price": 35000,
+                "Range": 1000,
+                "Damage": 50000,
+                "Cooldown": 2,
+                "Slow": 0,
+                "SlowTime": 1
+            }
+        ]
+    },
     "Coco Boy": {
         "Type": "Explosion",
         "Image": "rbxassetid://18256042312",
