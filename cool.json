@@ -1100,7 +1100,7 @@
                 "Damage": 35000,
                 "Cooldown": 2,
                 "Slow": 0,
-                "SlowTime": 1
+                "SlowTime": 5
             },
              {
                 "Price": 35000,
@@ -1108,7 +1108,7 @@
                 "Damage": 50000,
                 "Cooldown": 2,
                 "Slow": 0,
-                "SlowTime": 1
+                "SlowTime": 5
             }
         ]
     },
