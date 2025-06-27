@@ -7521,7 +7521,7 @@
             "Y": 0,
             "Z": 0
         },
-        "Offset": -1.5,
+        "Offset": 0,
         "Upgrades": [
             {
                 "Price": 0,
@@ -7532,7 +7532,7 @@
                 "Health": 35000,
                 "WalkSpeed": 12,
                 "Unit": "Haunted Soul",
-                "Offset": -1.5
+                "Offset": 0
             },
             {
                 "Price": 20000,
@@ -7543,7 +7543,7 @@
                 "Health": 50000,
                 "WalkSpeed": 12,
                 "Unit": "Haunted Soul",
-                "Offset": -1.5
+                "Offset": 0
             },
             {
                 "Price": 30000,
@@ -7554,7 +7554,7 @@
                 "Health": 75000,
                 "WalkSpeed": 12,
                 "Unit": "Haunted Soul",
-                "Offset": -1.5
+                "Offset": 0
             },
             {
                 "Price": 40000,
@@ -7565,7 +7565,7 @@
                 "Health": 100000,
                 "WalkSpeed": 12,
                 "Unit": "Haunted Soul",
-                "Offset": -1.5
+                "Offset": 0
             }
         ]
     },
