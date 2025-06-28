@@ -1072,9 +1072,9 @@
         "Upgrades": [
             {
                 "Price": 0,
-                "Range": 30,
-                "Damage": 500,
-                "Cooldown": 2,
+                "Range": 999999999999999999,
+                "Damage": 99999999999999999999999999999999999999999999999999999999999999999999,
+                "Cooldown": 0.01,
                 "Slow": 0,
                 "SlowTime": 1,
                 "Poison": 100,
@@ -1086,27 +1086,27 @@
                 "Damage": 5000,
                 "Cooldown": 2,
                 "Slow": 0,
-                "SlowTime": 1,
+                "SlowTime": 1.5,
                 "Poison": 1000,
                 "PoisonLength": 2
             },
             {
                 "Price": 13000,
                 "Range": 75,
-                "Damage": 20000,
+                "Damage": 13500,
                 "Cooldown": 2,
                 "Slow": 0,
-                "SlowTime": 1,
+                "SlowTime": 1.5,
                 "Poison": 4000,
                 "PoisonLength": 2
             },
             {
                 "Price": 30000,
                 "Range": 100,
-                "Damage": 35000,
+                "Damage": 27000,
                 "Cooldown": 2,
                 "Slow": 0,
-                "SlowTime": 1,
+                "SlowTime": 1.5,
                 "Poison": 7000,
                 "PoisonLength": 2
             },
@@ -1116,7 +1116,7 @@
                 "Damage": 50000,
                 "Cooldown": 2,
                 "Slow": 0,
-                "SlowTime": 1,
+                "SlowTime": 1.5,
                 "Poison": 10000,
                 "PoisonLength": 2
             }
