@@ -1072,9 +1072,9 @@
         "Upgrades": [
             {
                 "Price": 0,
-                "Range": 999999999999999999,
-                "Damage": 999999,
-                "Cooldown": 0.01,
+                "Range": 999,
+                "Damage": 9999,
+                "Cooldown": 0.1,
                 "Slow": 0,
                 "SlowTime": 1,
                 "Poison": 100,
