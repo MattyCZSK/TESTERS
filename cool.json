@@ -1058,17 +1058,17 @@
     },
      "All-Star": {
         "Type": "Pierce + Stun + Poison",
-        "Image": "rbxassetid://138508234321719",
+        "Image": "rbxassetid://81511464666037",
         "Rarity": "Secret",
         "PlacePrice": 400,
         "Max": 1,
-        "Passive": {"Name": "Athlete", "Description": "Stuns Enemies for 1.5 Seconds and Poisons Them for of 20% Damage."},
+        "Passive": {"Name": "Athlete", "Description": "Stuns Enemies for 1.5 Seconds."},
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
             "Z": 0
         },
-        "Offset": -0.5,
+        "Offset": 0,
         "Upgrades": [
             {
                 "Price": 0,
@@ -1077,8 +1077,6 @@
                 "Cooldown": 2,
                 "Slow": 0,
                 "SlowTime": 1.5,
-                "Poison": 100,
-                "PoisonLength": 2
             },
             {
                 "Price": 2500,
@@ -1087,8 +1085,6 @@
                 "Cooldown": 2,
                 "Slow": 0,
                 "SlowTime": 1.5,
-                "Poison": 1000,
-                "PoisonLength": 2
             },
             {
                 "Price": 10000,
@@ -1097,8 +1093,6 @@
                 "Cooldown": 2,
                 "Slow": 0,
                 "SlowTime": 1.5,
-                "Poison": 4000,
-                "PoisonLength": 2
             },
             {
                 "Price": 30000,
@@ -1107,8 +1101,6 @@
                 "Cooldown": 2,
                 "Slow": 0,
                 "SlowTime": 1.5,
-                "Poison": 7000,
-                "PoisonLength": 2
             },
              {
                 "Price": 75000,
@@ -1117,8 +1109,6 @@
                 "Cooldown": 2,
                 "Slow": 0,
                 "SlowTime": 1.5,
-                "Poison": 10000,
-                "PoisonLength": 2
             }
         ]
     },
