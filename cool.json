@@ -1012,7 +1012,7 @@
         "Type": "Slow",
         "Image": "rbxassetid://18255590026",
         "Rarity": "Rare",
-        "PlacePrice": 800,
+        "PlacePrice": 400,
         "Max": 3,
         "Passive": {"Name": "Slow", "Description": "Slows enemies"},
         "hitboxOffset": {
@@ -1024,9 +1024,9 @@
         "Upgrades": [
             {
                 "Price": 0,
-                "Range": 15,
-                "Damage": 70,
-                "Cooldown": 1,
+                "Range": 999,
+                "Damage": 25000,
+                "Cooldown": 0.25,
                 "Slow": 0.70,
                 "SlowTime": 1
             },
@@ -1290,9 +1290,9 @@
         "Upgrades": [
             {
                 "Price": 0,
-                "Range": 999,
-                "Damage": 25000,
-                "Cooldown": 0.25
+                "Range": 15,
+                "Damage": 500,
+                "Cooldown": 2
             },
             {
                 "Price": 500,
