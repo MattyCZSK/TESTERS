@@ -501,7 +501,61 @@
             }
         ]
     },
-    "Shadow Freddy": {
+    "Electric Freddy": {
+        "Type": "AOE + Stun",
+        "Image": "rbxassetid://17270065249",
+        "Rarity": "Secret",
+        "PlacePrice": 500,
+        "Max": 15,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 60,
+                "Damage": 3500,
+                "Cooldown": 0.5,
+                "Slow": 0,
+                "SlowTime": 6.5
+            },
+            {
+                "Price": 1200,
+                "Range": 60,
+                "Damage": 8750,
+                "Cooldown": 0.5,
+                "Slow": 0,
+                "SlowTime": 6.5
+            },
+            {
+                "Price": 3500,
+                "Range": 60,
+                "Damage": 13250,
+                "Cooldown": 0.5,
+                "Slow": 0,
+                "SlowTime": 6.5
+            },
+            {
+                "Price": 6000,
+                "Range": 60,
+                "Damage": 17500,
+                "Cooldown": 0.5,
+                "Slow": 0,
+                "SlowTime": 6.5
+            },
+            {
+                "Price": 10000,
+                "Range": 60,
+                "Damage": 37500,
+                "Cooldown": 0.5,
+                "Slow": 0,
+                "SlowTime": 6.5
+            }
+        ]
+    },
+        "Shadow Freddy": {
         "Type": "AOE",
         "Image": "rbxassetid://17270065249",
         "Rarity": "Secret",
@@ -518,6 +572,7 @@
                 "Range": 12,
                 "Damage": 35,
                 "Cooldown": 0.05
+                
             },
             {
                 "Price": 25000,
