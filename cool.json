@@ -7810,8 +7810,8 @@
                 "Range": 20,
                 "Damage": 10,
                 "Cooldown": 1,
-                "DamageBoost": 1.1,
-                "RangeBoost": 1.1
+                "DamageBoost": 1.12,
+                "RangeBoost": 1.12
             },
             {
                 "Price": 1000,
