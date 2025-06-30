@@ -1117,7 +1117,7 @@
         "Rarity": "Secret",
         "PlacePrice": 400,
         "Max": 1,
-        "Passive": {"Name": "Athlete", "Description": "Stuns Enemies for 1.5 Seconds."},
+        "Passive": {"Name": "Athlete", "Description": "Stuns Enemies for 1.5 Seconds and Applies Poison for 20% Damage."},
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
@@ -1158,7 +1158,7 @@
                 "SlowTime": 1.5
             },
              {
-                "Price": 75000,
+                "Price": 65000,
                 "Range": 1000,
                 "Damage": 50000,
                 "Cooldown": 2,
