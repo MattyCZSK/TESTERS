@@ -501,10 +501,10 @@
             }
         ]
     },
-    "Electric Freddy": {
+    "Electromagnetic Freddy": {
         "Type": "AOE + Stun",
         "Image": "rbxassetid://17270065249",
-        "Rarity": "Secret",
+        "Rarity": "Mythic",
         "PlacePrice": 500,
         "Max": 15,
         "hitboxOffset": {
