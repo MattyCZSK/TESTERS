@@ -4369,30 +4369,30 @@
                 "Range": 25,
                 "Damage": 600,
                 "Cooldown": 1,
-                "Turret1": {"Range": 30, "Damage": 5, "Cooldown": 0.1}
+                "Turret1": {"Range": 30, "Damage": 5, "Cooldown": 0.05}
             },
             {
                 "Price": 1000,
                 "Range": 27,
                 "Damage": 600,
                 "Cooldown": 1,
-                "Turret1": {"Range": 30, "Damage": 10, "Cooldown": 0.1}
+                "Turret1": {"Range": 30, "Damage": 10, "Cooldown": 0.05}
             },
             {
                 "Price": 1200,
                 "Range": 28,
                 "Damage": 600,
                 "Cooldown": 1,
-                "Turret1": {"Range": 30, "Damage": 10, "Cooldown": 0.1},
-                "Turret2": {"Range": 30, "Damage": 10, "Cooldown": 0.1}
+                "Turret1": {"Range": 30, "Damage": 10, "Cooldown": 0.05},
+                "Turret2": {"Range": 30, "Damage": 10, "Cooldown": 0.05}
             },
             {
                 "Price": 1400,
                 "Range": 30,
                 "Damage": 700,
                 "Cooldown": 1,
-                "Turret1": {"Range": 30, "Damage": 15, "Cooldown": 0.1},
-                "Turret2": {"Range": 30, "Damage": 15, "Cooldown": 0.1}
+                "Turret1": {"Range": 30, "Damage": 15, "Cooldown": 0.05},
+                "Turret2": {"Range": 30, "Damage": 15, "Cooldown": 0.05}
             }
         ]
     },
