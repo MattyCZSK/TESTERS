@@ -504,9 +504,9 @@
     "Electromagnetic Freddy": {
         "Type": "AOE + Stun",
         "Image": "rbxassetid://17270065249",
-        "Rarity": "Mythic",
-        "PlacePrice": 500,
-        "Max": 15,
+        "Rarity": "Electromagnetic",
+        "PlacePrice": 2500,
+        "Max": 2,
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
@@ -522,7 +522,7 @@
                 "SlowTime": 6.5
             },
             {
-                "Price": 1200,
+                "Price": 5000,
                 "Range": 60,
                 "Damage": 8750,
                 "Cooldown": 0.5,
@@ -530,7 +530,7 @@
                 "SlowTime": 6.5
             },
             {
-                "Price": 3500,
+                "Price": 10500,
                 "Range": 60,
                 "Damage": 13250,
                 "Cooldown": 0.5,
@@ -538,7 +538,7 @@
                 "SlowTime": 6.5
             },
             {
-                "Price": 6000,
+                "Price": 18000,
                 "Range": 60,
                 "Damage": 17500,
                 "Cooldown": 0.5,
@@ -546,7 +546,7 @@
                 "SlowTime": 6.5
             },
             {
-                "Price": 10000,
+                "Price": 30000,
                 "Range": 60,
                 "Damage": 37500,
                 "Cooldown": 0.5,
