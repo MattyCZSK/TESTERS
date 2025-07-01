@@ -502,11 +502,11 @@
         ]
     },
     "Electromagnetic Freddy": {
-        "Type": "AOE + Stun",
+        "Type": "AOE + Chain + Stun",
         "Image": "rbxassetid://17270065249",
         "Rarity": "Electromagnetic",
-        "PlacePrice": 2500,
-        "Max": 2,
+        "PlacePrice": 850,
+        "Max": 5,
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
@@ -515,40 +515,40 @@
         "Upgrades": [
             {
                 "Price": 0,
-                "Range": 60,
+                "Range": 35,
+                "Damage": 1250,
+                "Cooldown": 0.5,
+                "Slow": 0,
+                "SlowTime": 6.5
+            },
+            {
+                "Price": 2500,
+                "Range": 35,
                 "Damage": 3500,
                 "Cooldown": 0.5,
                 "Slow": 0,
                 "SlowTime": 6.5
             },
             {
-                "Price": 5000,
-                "Range": 60,
-                "Damage": 8750,
-                "Cooldown": 0.5,
-                "Slow": 0,
-                "SlowTime": 6.5
-            },
-            {
                 "Price": 10500,
-                "Range": 60,
-                "Damage": 13250,
+                "Range": 35,
+                "Damage": 6500,
                 "Cooldown": 0.5,
                 "Slow": 0,
                 "SlowTime": 6.5
             },
             {
                 "Price": 18000,
-                "Range": 60,
-                "Damage": 17500,
+                "Range": 35,
+                "Damage": 9500,
                 "Cooldown": 0.5,
                 "Slow": 0,
                 "SlowTime": 6.5
             },
             {
-                "Price": 30000,
-                "Range": 60,
-                "Damage": 37500,
+                "Price": 25000,
+                "Range": 35,
+                "Damage": 15000,
                 "Cooldown": 0.5,
                 "Slow": 0,
                 "SlowTime": 6.5
