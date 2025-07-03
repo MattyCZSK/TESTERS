@@ -2173,7 +2173,7 @@
                 "Range": 15,
                 "Damage": 200,
                 "Cooldown": 3.5,
-                "Poison": 25,
+                "Poison": 125,
                 "PoisonLength": 3
             },
             {
@@ -2181,7 +2181,7 @@
                 "Range": 17,
                 "Damage": 225,
                 "Cooldown": 3,
-                "Poison": 50,
+                "Poison": 175,
                 "PoisonLength": 3
             },
             {
@@ -2189,7 +2189,7 @@
                 "Range": 20,
                 "Damage": 250,
                 "Cooldown": 3,
-                "Poison": 75,
+                "Poison": 225,
                 "PoisonLength": 3
             },
             {
@@ -2197,7 +2197,7 @@
                 "Range": 25,
                 "Damage": 300,
                 "Cooldown": 2,
-                "Poison": 100,
+                "Poison": 300,
                 "PoisonLength": 3
             }
         ]
