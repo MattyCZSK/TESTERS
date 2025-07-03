@@ -1136,9 +1136,9 @@
                 "BleedTime": 2
             },
             {
-                "Price": 3000,
+                "Price": 5000,
                 "Range": 50,
-                "Damage": 2500,
+                "Damage": 3500,
                 "Cooldown": 2,
                 "Slow": 0,
                 "SlowTime": 1.5,
@@ -1156,9 +1156,9 @@
                 "BleedTime": 2
             },
             {
-                "Price": 37500,
+                "Price": 22500,
                 "Range": 100,
-                "Damage": 30000,
+                "Damage": 16500,
                 "Cooldown": 2,
                 "Slow": 0,
                 "SlowTime": 1.5,
@@ -1166,9 +1166,9 @@
                 "BleedTime": 2
             },
              {
-                "Price": 62000,
+                "Price": 35000,
                 "Range": 1000,
-                "Damage": 50000,
+                "Damage": 25000,
                 "Cooldown": 2,
                 "Slow": 0,
                 "SlowTime": 1.5,
