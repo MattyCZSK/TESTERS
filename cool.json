@@ -5968,7 +5968,7 @@
         "Type": "Splash",
         "Image": "rbxassetid://77112261441145",
         "Rarity": "Secret",
-        "PlacePrice": 5000,
+        "PlacePrice": 10000,
         "Offset": 1.25,
         "Max": 1,
         "Passive": {"Name": "Recursive Volley", "Description": "Attacks strike twice"},
@@ -5981,38 +5981,38 @@
             {
                 "Price": 0,
                 "Range": 25,
-                "Damage": 2000,
-                "Cooldown": 2.5
+                "Damage": 5000,
+                "Cooldown": 4
             },
             {
-                "Price": 10000,
+                "Price": 15000,
                 "Range": 27,
-                "Damage": 2400,
-                "Cooldown": 2.4
+                "Damage": 10000,
+                "Cooldown": 3.8
             },
             {
                 "Price": 20000,
                 "Range": 30,
-                "Damage": 2800,
-                "Cooldown": 2.3
+                "Damage": 15000,
+                "Cooldown": 3.6
+            },
+            {
+                "Price": 25000,
+                "Range": 34,
+                "Damage": 20000,
+                "Cooldown": 3.4
             },
             {
                 "Price": 30000,
-                "Range": 34,
-                "Damage": 3200,
-                "Cooldown": 2.2
-            },
-            {
-                "Price": 40000,
                 "Range": 37,
-                "Damage": 3600,
-                "Cooldown": 2.1
+                "Damage": 25000,
+                "Cooldown": 3.2
             },
             {
-                "Price": 150000,
+                "Price": 35000,
                 "Range": 40,
-                "Damage": 7500,
-                "Cooldown": 2
+                "Damage": 30000,
+                "Cooldown": 3
             }
         ]
     },
@@ -6073,25 +6073,25 @@
             {
                 "Price": 0,
                 "Range": 25,
-                "Damage": 200,
+                "Damage": 500,
                 "Cooldown": 0.3
             },
             {
                 "Price": 30000,
                 "Range": 27,
-                "Damage": 300,
+                "Damage": 1000,
                 "Cooldown": 0.27
             },
             {
                 "Price": 40000,
                 "Range": 34,
-                "Damage": 400,
+                "Damage": 1500,
                 "Cooldown": 0.23
             },
             {
                 "Price": 50000,
                 "Range": 35,
-                "Damage": 500,
+                "Damage": 2000,
                 "Cooldown": 0.2
             }
         ]
