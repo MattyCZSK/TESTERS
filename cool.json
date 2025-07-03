@@ -2734,32 +2734,32 @@
             {
                 "Price": 0,
                 "Range": 22,
-                "Damage": 300,
+                "Damage": 200,
                 "Cooldown": 0.8
             },
             {
                 "Price": 700,
                 "Range": 24,
-                "Damage": 400,
-                "Cooldown": 0.6
+                "Damage": 300,
+                "Cooldown": 0.7
             },
             {
                 "Price": 900,
                 "Range": 25,
-                "Damage": 500,
-                "Cooldown": 0.5
+                "Damage": 400,
+                "Cooldown": 0.6
             },
             {
                 "Price": 1000,
                 "Range": 26,
-                "Damage": 600,
-                "Cooldown": 0.4
+                "Damage": 500,
+                "Cooldown": 0.5
             },
             {
                 "Price": 1200,
                 "Range": 27,
-                "Damage": 700,
-                "Cooldown": 0.3
+                "Damage": 600,
+                "Cooldown": 0.4
             }
         ]
     },
@@ -3233,7 +3233,7 @@
         "Type": "Single Slow",
         "Image": "rbxassetid://18978229455",
         "Rarity": "Epic",
-        "PlacePrice": 1500,
+        "PlacePrice": 150,
         "Offset": 0,
         "Max": 3,
         "Passive": {"Name": "Slow", "Description": "Slows enemies"},
@@ -3251,21 +3251,21 @@
                 "Cooldown": 2
             },
             {
-                "Price": 2000,
+                "Price": 200,
                 "Range": 17,
                 "Damage": 200,
                 "Slow": 0.6,
                 "Cooldown": 1.85
             },
             {
-                "Price": 2500,
+                "Price": 250,
                 "Range": 18,
                 "Damage": 225,
                 "Slow":  0.6,
                 "Cooldown": 1.7
             },
             {
-                "Price": 3000,
+                "Price": 300,
                 "Range": 20,
                 "Damage": 250,
                 "Slow": 0.6,
@@ -3325,7 +3325,7 @@
         "Type": "Cone AOE Burn",
         "Image": "rbxassetid://18989232497",
         "Rarity": "Secret",
-        "PlacePrice": 3000,
+        "PlacePrice": 300,
         "Offset": 0,
         "Max": 3,
         "Passive": {"Name": "Burn", "Description": "Burns enemies"},
@@ -3344,7 +3344,7 @@
                 "Cooldown": 1
             },
             {
-                "Price": 4000,
+                "Price": 400,
                 "Range": 19,
                 "Damage": 200,
                 "Burn": 50,
@@ -3352,7 +3352,7 @@
                 "Cooldown": 1
             },
             {
-                "Price": 5000,
+                "Price": 500,
                 "Range": 20,
                 "Damage": 250,
                 "Burn": 62,
@@ -3360,7 +3360,7 @@
                 "Cooldown": 1
             },
             {
-                "Price": 6000,
+                "Price": 600,
                 "Range": 22,
                 "Damage":300,
                 "Burn": 80,
@@ -3490,37 +3490,37 @@
                 "Price": 0,
                 "Range": 15,
                 "Damage": 500,
-                "SummonTime": 10,
+                "SummonTime": 7,
                 "Unit": "Helper Freddle",
                 "Health": 500,
-                "Cooldown": 10
+                "Cooldown": 7
             },
             {
                 "Price": 500,
                 "Range": 15,
                 "Damage": 1000,
-                "SummonTime": 10,
+                "SummonTime": 6,
                 "Unit": "Helper Freddle",
                 "Health": 1000,
-                "Cooldown": 9
+                "Cooldown": 6
             },
             {
                 "Price": 1500,
                 "Range": 15,
                 "Damage": 2000,
-                "SummonTime": 10,
+                "SummonTime": 5,
                 "Unit": "Helper Freddle",
                 "Health": 2000,
-                "Cooldown": 8
+                "Cooldown": 5
             },
             {
                 "Price": 2500,
                 "Range": 15,
                 "Damage": 3000,
-                "SummonTime": 10,
+                "SummonTime": 4,
                 "Unit": "Helper Freddle",
                 "Health": 3000,
-                "Cooldown": 7
+                "Cooldown": 4
             }
         ]
     },
@@ -5102,7 +5102,7 @@
         "Type": "Single Farm",
         "Image": "rbxassetid://108467505723572",
         "Rarity": "Secret",
-        "PlacePrice": 500,
+        "PlacePrice": 300,
         "Offset": 0,
         "Max": 3,
         "Passive": {"Name": "Gold Rush", "Description": "Generates lots of extra cash after every shot"},
@@ -5119,7 +5119,7 @@
                 "Cooldown": 1
             },
             {
-                "Price": 600,
+                "Price": 500,
                 "Range": 12,
                 "Damage": 175,
                 "Cooldown": 1
