@@ -1112,12 +1112,68 @@
         ]
     },
      "All-Star": {
-        "Type": "Pierce + True Stun + Poison + Bleed",
+        "Type": "Pierce + Poison + Bleed",
         "Image": "rbxassetid://108981089029442",
         "Rarity": "Secret",
         "PlacePrice": 400,
+        "Max": 4,
+        "Passive": {"Name": "Athlete", "Description": "Applies Poison for 20% Damage and Stops Health Regen."},
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Offset": 0,
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 25,
+                "Damage": 500,
+                "Cooldown": 1,
+                "Poison": 100,
+                "PoisonLength": 1000
+                "Bleed": 0,
+                "BleedTime": 1000
+            },
+            {
+                "Price": 3500,
+                "Range": 50,
+                "Damage": 2000,
+                "Cooldown": 1,
+                "Poison": 400,
+                "PoisonLength": 1000
+                "Bleed": 0,
+                "BleedTime": 1000
+            },
+            {
+                "Price": 10000,
+                "Range": 75,
+                "Damage": 7500,
+                "Cooldown": 1,
+                "Poison": 1500,
+                "PoisonLength": 1000
+                "Bleed": 0,
+                "BleedTime": 1000
+            },
+            {
+                "Price": 25000,
+                "Range": 100,
+                "Damage": 12500,
+                "Cooldown": 1,
+                "Poison": 2500,
+                "PoisonLength": 1000
+                "Bleed": 0,
+                "BleedTime": 1000
+            }
+        ]
+    },
+         "Defensive End": {
+        "Type": "Nuke + True Stun + Knockback",
+        "Image": "rbxassetid://108981089029442",
+        "Rarity": "Secret",
+        "PlacePrice": 4000,
         "Max": 1,
-        "Passive": {"Name": "Athlete", "Description": "Stuns Enemies for 1.5 Seconds, Applies Poison for 20% Damage, and Stops Health Regen."},
+        "Passive": {"Name": "Protection", "Description": "Stuns Enemies for 1.5 Seconds."},
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
@@ -1128,52 +1184,42 @@
             {
                 "Price": 0,
                 "Range": 30,
-                "Damage": 500,
+                "Damage": 5000,
                 "Cooldown": 2,
                 "Slow": 0,
-                "SlowTime": 1.5,
-                "Bleed": 0,
-                "BleedTime": 2
+                "SlowTime": 1.5
             },
             {
-                "Price": 5000,
-                "Range": 50,
-                "Damage": 3500,
-                "Cooldown": 2,
-                "Slow": 0,
-                "SlowTime": 1.5,
-                "Bleed": 0,
-                "BleedTime": 2
-            },
-            {
-                "Price": 13500,
-                "Range": 75,
-                "Damage": 10000,
-                "Cooldown": 2,
-                "Slow": 0,
-                "SlowTime": 1.5,
-                "Bleed": 0,
-                "BleedTime": 2
-            },
-            {
-                "Price": 22500,
-                "Range": 100,
-                "Damage": 16500,
-                "Cooldown": 2,
-                "Slow": 0,
-                "SlowTime": 1.5,
-                "Bleed": 0,
-                "BleedTime": 2
-            },
-             {
-                "Price": 35000,
-                "Range": 1000,
+                "Price": 30000,
+                "Range": 35,
                 "Damage": 25000,
                 "Cooldown": 2,
                 "Slow": 0,
-                "SlowTime": 1.5,
-                "Bleed": 0,
-                "BleedTime": 2
+                "SlowTime": 1.5
+            },
+            {
+                "Price": 55000,
+                "Range": 40,
+                "Damage": 50000,
+                "Cooldown": 2,
+                "Slow": 0,
+                "SlowTime": 1.5
+            },
+            {
+                "Price": 80000,
+                "Range": 45,
+                "Damage": 75000,
+                "Cooldown": 2,
+                "Slow": 0,
+                "SlowTime": 1.5
+            },
+             {
+                "Price": 105000,
+                "Range": 50,
+                "Damage": 100000,
+                "Cooldown": 2,
+                "Slow": 0,
+                "SlowTime": 1.5
             }
         ]
     },
