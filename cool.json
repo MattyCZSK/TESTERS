@@ -1131,7 +1131,7 @@
                 "Damage": 500,
                 "Cooldown": 1,
                 "Poison": 100,
-                "PoisonLength": 1000
+                "PoisonLength": 1000,
                 "Bleed": 0,
                 "BleedTime": 1000
             },
@@ -1141,7 +1141,7 @@
                 "Damage": 2000,
                 "Cooldown": 1,
                 "Poison": 400,
-                "PoisonLength": 1000
+                "PoisonLength": 1000,
                 "Bleed": 0,
                 "BleedTime": 1000
             },
@@ -1151,7 +1151,7 @@
                 "Damage": 7500,
                 "Cooldown": 1,
                 "Poison": 1500,
-                "PoisonLength": 1000
+                "PoisonLength": 1000,
                 "Bleed": 0,
                 "BleedTime": 1000
             },
@@ -1161,7 +1161,7 @@
                 "Damage": 12500,
                 "Cooldown": 1,
                 "Poison": 2500,
-                "PoisonLength": 1000
+                "PoisonLength": 1000,
                 "Bleed": 0,
                 "BleedTime": 1000
             }
