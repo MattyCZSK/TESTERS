@@ -1167,62 +1167,7 @@
             }
         ]
     },
-         "Defensive End": {
-        "Type": "Nuke + True Stun + Knockback",
-        "Image": "rbxassetid://108981089029442",
-        "Rarity": "Secret",
-        "PlacePrice": 4000,
-        "Max": 1,
-        "Passive": {"Name": "Protection", "Description": "Stuns Enemies for 1.5 Seconds."},
-        "hitboxOffset": {
-            "X": 0,
-            "Y": 0,
-            "Z": 0
-        },
-        "Offset": 0,
-        "Upgrades": [
-            {
-                "Price": 0,
-                "Range": 30,
-                "Damage": 5000,
-                "Cooldown": 2,
-                "Slow": 0,
-                "SlowTime": 1.5
-            },
-            {
-                "Price": 30000,
-                "Range": 35,
-                "Damage": 25000,
-                "Cooldown": 2,
-                "Slow": 0,
-                "SlowTime": 1.5
-            },
-            {
-                "Price": 55000,
-                "Range": 40,
-                "Damage": 50000,
-                "Cooldown": 2,
-                "Slow": 0,
-                "SlowTime": 1.5
-            },
-            {
-                "Price": 80000,
-                "Range": 45,
-                "Damage": 75000,
-                "Cooldown": 2,
-                "Slow": 0,
-                "SlowTime": 1.5
-            },
-             {
-                "Price": 105000,
-                "Range": 50,
-                "Damage": 100000,
-                "Cooldown": 2,
-                "Slow": 0,
-                "SlowTime": 1.5
-            }
-        ]
-    },
+
     "Coco Boy": {
         "Type": "Explosion",
         "Image": "rbxassetid://18256042312",
