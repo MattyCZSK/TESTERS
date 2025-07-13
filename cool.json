@@ -5558,7 +5558,7 @@
         ]
     },
 "Ballora": {
-        "Type": "Cooldown Booster",
+        "Type": "Range Booster",
         "Image": "rbxassetid://96561789964833",
         "Rarity": "Mythic",
         "PlacePrice": 1200,
@@ -5576,28 +5576,28 @@
                 "Range": 20,
                 "Damage": 0,
                 "Cooldown": 1,
-                "CooldownBoost": 0.9
+                "RangeBoost": 0.9
             },
             {
                 "Price": 1500,
                 "Range": 20,
                 "Damage": 0,
                 "Cooldown": 1,
-                "CooldownBoost": 0.85
+                "RangeBoost": 0.85
             },
             {
                 "Price": 2000,
                 "Range": 20,
                 "Damage": 0,
                 "Cooldown": 1,
-                "CooldownBoost": 0.8
+                "RangeBoost": 0.8
             },
             {
                 "Price": 2500,
                 "Range": 20,
                 "Damage": 0,
                 "Cooldown": 1,
-                "CooldownBoost": 0.76
+                "RangeBoost": 0.76
             }
         ]
     },
@@ -5808,7 +5808,7 @@
         ]
     },
 "Music Man": {
-        "Type": "Cooldown Booster",
+        "Type": "Range Booster",
         "Image": "rbxassetid://77906930997624",
         "Rarity": "Secret",
         "PlacePrice": 1000,
@@ -5826,28 +5826,28 @@
                 "Range": 20,
                 "Damage": 0,
                 "Cooldown": 1,
-                "CooldownBoost": 0.9
+                "RangeBoost": 0.9
             },
             {
                 "Price": 1200,
                 "Range": 20,
                 "Damage": 0,
                 "Cooldown": 1,
-                "CooldownBoost": 0.8
+                "RangeBoost": 0.8
             },
             {
                 "Price": 1600,
                 "Range": 20,
                 "Damage": 0,
                 "Cooldown": 1,
-                "CooldownBoost": 0.75
+                "RangeBoost": 0.75
             },
             {
                 "Price": 2000,
                 "Range": 20,
                 "Damage": 0,
                 "Cooldown": 1,
-                "CooldownBoost": 0.7
+                "RangeBoost": 0.7
             }
         ]
     },
@@ -6273,7 +6273,7 @@
                 "Range": 25,
                 "Damage": 0,
                 "Cooldown": 0.25,
-                "CooldownBoost": 0.97,
+                "RangeBoost": 0.97,
                 "Slow": 0.75
             },
             {
@@ -6281,7 +6281,7 @@
                 "Range": 27,
                 "Damage": 0,
                 "Cooldown": 0.25,
-                "CooldownBoost": 0.95,
+                "RangeBoost": 0.95,
                 "Slow": 0.75
             },
             {
@@ -6289,7 +6289,7 @@
                 "Range": 28,
                 "Damage": 0,
                 "Cooldown": 0.25,
-                "CooldownBoost": 0.92,
+                "RangeBoost": 0.92,
                 "Slow": 0.75
             },
             {
@@ -6297,7 +6297,7 @@
                 "Range": 30,
                 "Damage": 0,
                 "Cooldown": 0.25,
-                "CooldownBoost": 0.9,
+                "RangeBoost": 0.9,
                 "Slow": 0.75
             }
         ]
@@ -6345,7 +6345,7 @@
 
 
 "Eclipse Ballora": {
-        "Type": "Damage + Cooldown Booster",
+        "Type": "Damage + Range Booster",
         "Image": "rbxassetid://87973816034102",
         "Rarity": "Secret",
         "PlacePrice": 850,
@@ -6363,7 +6363,7 @@
                 "Range": 20,
                 "Damage": 0,
                 "Cooldown": 1,
-                "CooldownBoost": 0.9,
+                "RangeBoost": 0.9,
                 "DamageBoost": 1.1
             },
             {
@@ -6371,7 +6371,7 @@
                 "Range": 20,
                 "Damage": 0,
                 "Cooldown": 1,
-                "CooldownBoost": 0.85,
+                "RangeBoost": 0.85,
                 "DamageBoost": 1.15
             },
             {
@@ -6379,7 +6379,7 @@
                 "Range": 20,
                 "Damage": 0,
                 "Cooldown": 1,
-                "CooldownBoost": 0.8,
+                "RangeBoost": 0.8,
                 "DamageBoost": 1.2
             },
             {
@@ -6387,7 +6387,7 @@
                 "Range": 20,
                 "Damage": 0,
                 "Cooldown": 1,
-                "CooldownBoost": 0.73,
+                "RangeBoost": 0.73,
                 "DamageBoost": 1.27
             }
         ]
@@ -8297,28 +8297,28 @@
                 "Range": 20,
                 "Damage": 0,
                 "Cooldown": 1,
-                "CooldownBoost": 0.95
+                "RangeBoost": 0.95
             },
             {
                 "Price": 1000,
                 "Range": 20,
                 "Damage": 0,
                 "Cooldown": 1,
-                "CooldownBoost": 0.9
+                "RangeBoost": 0.9
             },
             {
                 "Price": 1200,
                 "Range": 20,
                 "Damage": 0,
                 "Cooldown": 1,
-                "CooldownBoost": 0.85
+                "RangeBoost": 0.85
             },
             {
                 "Price": 1400,
                 "Range": 20,
                 "Damage": 0,
                 "Cooldown": 1,
-                "CooldownBoost": 0.8
+                "RangeBoost": 0.8
             }
         ]
     },
@@ -8672,7 +8672,7 @@
     },
     
     "Windup Bonnie": {
-        "Type": "Cooldown Booster",
+        "Type": "Range Booster",
         "Image": "rbxassetid://95407534025882",
         "Rarity": "Mythic",
         "PlacePrice": 1200,
@@ -8690,28 +8690,28 @@
                 "Range": 20,
                 "Damage": 0,
                 "Cooldown": 1,
-                "CooldownBoost": 0.9
+                "RangeBoost": 0.9
             },
             {
                 "Price": 1500,
                 "Range": 20,
                 "Damage": 0,
                 "Cooldown": 1,
-                "CooldownBoost": 0.85
+                "RangeBoost": 0.85
             },
             {
                 "Price": 2000,
                 "Range": 20,
                 "Damage": 0,
                 "Cooldown": 1,
-                "CooldownBoost": 0.8
+                "RangeBoost": 0.8
             },
             {
                 "Price": 2500,
                 "Range": 20,
                 "Damage": 0,
                 "Cooldown": 1,
-                "CooldownBoost": 0.76
+                "RangeBoost": 0.76
             }
         ]
     },
@@ -9159,7 +9159,7 @@
         ]
     },
     "Frost Queen Ballora": {
-        "Type": "Cooldown Boost + Passive",
+        "Type": "Range Boost + Passive",
         "Image": "rbxassetid://134318454455185",
         "Rarity": "Secret",
         "PlacePrice": 1200,
@@ -9178,7 +9178,7 @@
                 "Range": 25,
                 "Damage": 0,
                 "Cooldown": 0.25,
-                "CooldownBoost": 0.85,
+                "RangeBoost": 0.85,
                 "Slow": 0.60,
                 "SlowTime": 1
             },
@@ -9187,7 +9187,7 @@
                 "Range": 25,
                 "Damage": 0,
                 "Cooldown": 0.25,
-                "CooldownBoost": 0.8,
+                "RangeBoost": 0.8,
                 "Slow": 0.60,
                 "SlowTime": 1
             },
@@ -9196,7 +9196,7 @@
                 "Range": 25,
                 "Damage": 0,
                 "Cooldown": 0.25,
-                "CooldownBoost": 0.75,
+                "RangeBoost": 0.75,
                 "Slow": 0.60,
                 "SlowTime": 1
             },
@@ -9205,7 +9205,7 @@
                 "Range": 25,
                 "Damage": 0,
                 "Cooldown": 0.25,
-                "CooldownBoost": 0.7,
+                "RangeBoost": 0.7,
                 "Slow": 0.60,
                 "SlowTime": 1
             }
@@ -9945,7 +9945,7 @@
                 "Range": 50,
                 "Damage": 0,
                 "Cooldown": 1,
-                "CooldownBoost": 0.9,
+                "RangeBoost": 0.9,
                 "RangeBoost": 1.1
             },
             {
@@ -9953,7 +9953,7 @@
                 "Range": 50,
                 "Damage": 0,
                 "Cooldown": 1,
-                "CooldownBoost": 0.82,
+                "RangeBoost": 0.82,
                 "RangeBoost": 1.17
             },
             {
@@ -9961,7 +9961,7 @@
                 "Range": 50,
                 "Damage": 0,
                 "Cooldown": 1,
-                "CooldownBoost": 0.75,
+                "RangeBoost": 0.75,
                 "RangeBoost": 1.22
             },
             {
@@ -9969,7 +9969,7 @@
                 "Range": 50,
                 "Damage": 0,
                 "Cooldown": 1,
-                "CooldownBoost": 0.73,
+                "RangeBoost": 0.73,
                 "RangeBoost": 1.27
             }
         ]
@@ -9977,7 +9977,7 @@
 
 
     "Coffee": {
-        "Type": "Damage + Cooldown Boost",
+        "Type": "Damage + Range Boost",
         "Image": "",
         "Rarity": "Forgotten",
         "PlacePrice": 11340,
@@ -10062,13 +10062,13 @@
         ]
     },
     "Wet Floor Bot": {
-        "Type": "AOE + Cooldown Boost",
+        "Type": "AOE + Range Boost",
         "Image": "rbxassetid://127516376865863",
         "Rarity": "Secret",
         "PlacePrice": 400,
         "Offset": -1.75,
         "Max": 3,
-        "Passive": {"Name": "Cooldown Boost", "Description": "All units in range attack 10% faster"},
+        "Passive": {"Name": "Range Boost", "Description": "All units in range attack 10% faster"},
         "NoEnemyAttack": true,
         "hitboxOffset": {
             "X": 0,
@@ -10081,28 +10081,28 @@
                 "Range": 25,
                 "Damage": 200,
                 "Cooldown": 1,
-                "CooldownBoost": 0.9
+                "RangeBoost": 0.9
             },
             {
                 "Price": 500,
                 "Range": 25,
                 "Damage": 300,
                 "Cooldown": 1,
-                "CooldownBoost": 0.9
+                "RangeBoost": 0.9
             },
             {
                 "Price": 600,
                 "Range": 25,
                 "Damage": 400,
                 "Cooldown": 1,
-                "CooldownBoost": 0.9
+                "RangeBoost": 0.9
             },
             {
                 "Price": 700,
                 "Range": 25,
                 "Damage": 500,
                 "Cooldown": 1,
-                "CooldownBoost": 0.9
+                "RangeBoost": 0.9
             }
         ]
     }
